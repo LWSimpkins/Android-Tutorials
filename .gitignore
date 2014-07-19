@@ -75,3 +75,7 @@ proguard/
 
 # Log Files
 *.log
+
+# From Android Studio
+/.idea/workspace.xml
+
